@@ -12,7 +12,7 @@ const Login = () => {
             <input type="email"/>
             <input type="password"/>
 
-            <Link to={"/todo/home"}>
+            <Link to={"/task/home"}>
                 <button>
                     LOGIN
                 </button>
